@@ -1,6 +1,6 @@
 # Pensive-blog-site
 
-<!-- Copy and Paste Me -->
+
 <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
   <iframe
     src="https://glitch.com/embed/#!/embed/illustrious-tortoiseshell-bedbug?path=README.md&previewSize=0"
