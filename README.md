@@ -1,4 +1,4 @@
-# Pensive-blog-site
+# FAIA
 
 
 this site was made as a motivator for me to learn bootstrap and integrate it with my HTML website and make it look more cohesive and pretty. 
