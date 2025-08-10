@@ -21,6 +21,7 @@
 
 
 ## Link to the live site 
+note: currently in archives due to the site not supporting the url anymore :(
 [https://glitch.com/~illustrious-tortoiseshell-bedbug](https://f-a-i-a.glitch.me)
 
 
