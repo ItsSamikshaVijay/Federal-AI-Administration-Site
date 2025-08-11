@@ -5,7 +5,7 @@
 
 ### Achievements in AI and Ethical Governance
 
-- **Second Place Winner**: My team secured second place for proposing an organization called **FAIA** (Federation for AI Accountability) to address ethical governance, risk management, and compliance in AI technologies. This project focused on ensuring that AI inventions are developed and used responsibly while mitigating associated risks.
+- **Second Place Winner**: My team secured second place for proposing an organization called **FAIA** (Federation for AI Accountability), and auditing framework to address ethical governance, risk management, and compliance in AI technologies. This project focused on ensuring that AI inventions are developed and used responsibly while mitigating associated risks.
   
 - **Exposure to AI and Machine Learning**: Gained valuable hands-on experience and insights into cutting-edge advancements in **Artificial Intelligence (AI)** and **Machine Learning (ML)** models, exploring their potential impact on various industries and security domains.
 
